@@ -84,3 +84,4 @@ This is not simply a Docker project.
 The goal is to learn how to take responsibility for running an application:
 
 > Understand how it works, how it fails, how to troubleshoot it, how to secure it, and how to recover it.
+
